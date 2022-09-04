@@ -17,3 +17,5 @@ print(car1.name, car1.price, car1.colour)
 print(car2.name, car2.price, car2.colour)
 car1.start()
 car2.start()
+
+car3=Cars("KIA", 2000000, "Blue")
